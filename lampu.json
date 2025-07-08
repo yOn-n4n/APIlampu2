@@ -1,0 +1,27 @@
+[
+  {
+    "nama": "Lampu LED Philips 10W",
+    "harga": 35000,
+    "gambar": "https://images.pexels.com/photos/2098622/pexels-photo-2098622.jpeg"
+  },
+  {
+    "nama": "Lampu Neon Osram 20W",
+    "harga": 45000,
+    "gambar": "https://images.pexels.com/photos/396547/pexels-photo-396547.jpeg"
+  },
+  {
+    "nama": "Lampu Bohlam Kuning 5W",
+    "harga": 15000,
+    "gambar": "https://images.pexels.com/photos/3631296/pexels-photo-3631296.jpeg"
+  },
+  {
+    "nama": "Lampu Sorot LED 50W",
+    "harga": 125000,
+    "gambar": "https://images.pexels.com/photos/91216/pexels-photo-91216.jpeg"
+  },
+  {
+    "nama": "Lampu Strip LED 5M",
+    "harga": 75000,
+    "gambar": "https://images.pexels.com/photos/4081108/pexels-photo-4081108.jpeg"
+  }
+]
